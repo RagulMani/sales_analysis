@@ -1,0 +1,35 @@
+2025-05-24T10:50:19.521Z [INFO]: Server running on port 3000
+2025-05-24T10:50:24.981Z [INFO]: GET /
+2025-05-24T10:50:26.067Z [INFO]: GET /
+2025-05-24T10:50:32.607Z [INFO]: GET /health
+2025-05-24T10:50:57.810Z [INFO]: GET /analysis
+2025-05-24T10:51:11.068Z [INFO]: GET /revenue/total
+2025-05-24T10:51:22.997Z [INFO]: GET /revenue/by-category
+2025-05-24T10:51:48.428Z [INFO]: GET /
+2025-05-24T10:51:51.663Z [INFO]: GET /health
+2025-05-24T10:52:42.948Z [INFO]: GET /
+2025-05-24T10:52:56.693Z [INFO]: GET /api/analysis
+2025-05-24T10:53:25.597Z [INFO]: GET /api/revenue/total
+2025-05-24T10:53:50.208Z [INFO]: GET /api
+2025-05-24T10:54:28.038Z [INFO]: GET /api/analysis/revenue/total
+2025-05-24T10:54:53.802Z [INFO]: GET /api/analysis/revenue/by-category
+2025-05-24T10:54:59.437Z [INFO]: GET /api/analysis/revenue/by-category
+2025-05-24T10:55:43.186Z [INFO]: Server running on port 3000
+2025-05-24T10:55:50.172Z [INFO]: GET /
+2025-05-24T10:55:51.260Z [INFO]: GET /
+2025-05-24T10:55:57.782Z [INFO]: GET /health
+2025-05-24T10:56:00.220Z [INFO]: GET /
+2025-05-24T10:56:14.934Z [INFO]: GET /api/analysis/revenue/total
+2025-05-24T10:57:07.778Z [INFO]: GET /api/refresh
+2025-05-24T10:59:16.512Z [INFO]: Server running on port 3000
+2025-05-24T11:00:52.901Z [INFO]: Server running on port 3000
+2025-05-24T11:00:59.905Z [INFO]: GET /api/analysis/revenue/total
+2025-05-24T11:00:59.979Z [INFO]: GET /favicon.ico
+2025-05-24T12:24:56.139Z [INFO]: Server running on port 3000
+2025-05-24T12:25:23.233Z [INFO]: GET /api/analysis/revenue/total
+2025-05-24T12:27:33.302Z [INFO]: Server running on port 3000
+2025-05-24T12:27:35.818Z [INFO]: GET /api/analysis/revenue/total
+2025-05-24T12:28:41.806Z [INFO]: Server running on port 3000
+2025-05-24T12:28:43.066Z [INFO]: GET /api/revenue/by-category
+2025-05-24T12:28:46.623Z [INFO]: GET /api/revenue/by-category
+2025-05-24T12:29:00.603Z [INFO]: GET /api/analysis/revenue/by-category
